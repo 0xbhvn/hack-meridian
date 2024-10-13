@@ -14,6 +14,10 @@ Key features include:
 - Calculation of funding allocations based on votes.
 - Disbursement of funds to submissions after the round ends.
 
+## Video Demo
+
+[Watch the video walkthrough of the contract here.](https://www.loom.com/share/3fa6a82cd0f942d2964b1d0cfc1fe3d7?sid=de0481a3-a57e-4f86-bfea-cdc7de68affe)
+
 ## Contract Structure
 
 ### Modules and Imports
@@ -317,3 +321,5 @@ This project is licensed under the MIT License.
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
+
+---
