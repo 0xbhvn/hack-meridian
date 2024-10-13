@@ -16,7 +16,7 @@ Key features include:
 
 ## Video Demo
 
-[Watch the video walkthrough of the contract here.](https://www.loom.com/share/3fa6a82cd0f942d2964b1d0cfc1fe3d7?sid=de0481a3-a57e-4f86-bfea-cdc7de68affe)
+[Watch the video walkthrough of the contract here.](https://www.loom.com/share/cf4f5a61cd434a62944b05945f886fb7?sid=43073d6b-fdae-4ce2-9132-1e6c9866ef25)
 
 ## Contract Structure
 
